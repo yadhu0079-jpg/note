@@ -1,0 +1,6 @@
+{
+  "name": "Note Keeper",
+  "description": "A high-performance minimalist full-stack note taking workspace utilizing SQLite and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
